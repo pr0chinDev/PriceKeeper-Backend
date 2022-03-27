@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "s0AJtGbBIYMv3Fyr09ICtP40vs9FE1uZLEL99l5ohVM=",
+  "Source": "WebAPI-PriceKeeper",
+  "BasePath": "_content/WebAPI-PriceKeeper",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
