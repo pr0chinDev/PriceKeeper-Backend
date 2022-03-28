@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\White Hat Developer\\source\\repos\\WebAPI-PriceKeeper\\WebAPI-PriceKeeper\\WebAPI-PriceKeeper.csproj": {}
+    "D:\\Projects\\Home\\PriceKeeper-Backend\\WebAPI-PriceKeeper\\WebAPI-PriceKeeper.csproj": {}
   },
   "projects": {
-    "C:\\Users\\White Hat Developer\\source\\repos\\WebAPI-PriceKeeper\\WebAPI-PriceKeeper\\WebAPI-PriceKeeper.csproj": {
+    "D:\\Projects\\Home\\PriceKeeper-Backend\\WebAPI-PriceKeeper\\WebAPI-PriceKeeper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\White Hat Developer\\source\\repos\\WebAPI-PriceKeeper\\WebAPI-PriceKeeper\\WebAPI-PriceKeeper.csproj",
+        "projectUniqueName": "D:\\Projects\\Home\\PriceKeeper-Backend\\WebAPI-PriceKeeper\\WebAPI-PriceKeeper.csproj",
         "projectName": "WebAPI-PriceKeeper",
-        "projectPath": "C:\\Users\\White Hat Developer\\source\\repos\\WebAPI-PriceKeeper\\WebAPI-PriceKeeper\\WebAPI-PriceKeeper.csproj",
-        "packagesPath": "C:\\Users\\White Hat Developer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\White Hat Developer\\source\\repos\\WebAPI-PriceKeeper\\WebAPI-PriceKeeper\\obj\\",
+        "projectPath": "D:\\Projects\\Home\\PriceKeeper-Backend\\WebAPI-PriceKeeper\\WebAPI-PriceKeeper.csproj",
+        "packagesPath": "C:\\Users\\Samir\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Home\\PriceKeeper-Backend\\WebAPI-PriceKeeper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\White Hat Developer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Samir\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
